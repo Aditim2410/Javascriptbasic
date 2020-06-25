@@ -1,0 +1,17 @@
+h1{
+    text-align:center;
+    color:palevioletred
+}
+body {
+  
+   background-image: url("C:\Users\admin\Desktop\rose.jpg");
+   margin-right: 200px;
+   background-attachment: fixed;
+}
+  
+
+
+p {
+    text-align: center;
+    color:yellowgreen;
+  }
